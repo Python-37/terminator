@@ -45,7 +45,7 @@ msgstr "取得所有终端的列表"
 
 #: ../remotinator.py:44
 msgid "Get the uuid of the current focused terminal"
-msgstr ""
+msgstr "取得當前聚焦終端UUID"
 
 #: ../remotinator.py:45
 msgid "Get the UUID of a parent window"
